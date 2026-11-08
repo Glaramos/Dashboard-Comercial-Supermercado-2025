@@ -22,7 +22,7 @@ El análisis se realizó sobre una base de aproximadamente **64.960 registros de
 
 ## 📈 Demostración del dashboard
 
-![Demostración del Dashboard Comercial](assets/img/gif/AnalisisSupermercado.gif)
+![Demostración del Dashboard Comercial](AnalisisSupermercado.gif)
 
 *Visualización de los indicadores, filtros y gráficos interactivos del proyecto.*
 
